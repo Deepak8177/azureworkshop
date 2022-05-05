@@ -1,5 +1,5 @@
 const name = 'Deepak kumar'
-const title = 'software developer'
+const title = '⭐ Software Developer ⭐'
 const mail = 'dg8177439@gmail.com'
 
 document.getElementById('title').innerText = name
